@@ -10,9 +10,8 @@
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.0.2",
-    "@shadcn/ui": "latest",
-    "axios": "latest",
-    "cheerio": "latest",
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
     "lucide-react": "^0.363.0",
